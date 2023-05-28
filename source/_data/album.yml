@@ -1,0 +1,71 @@
+## 专辑
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: 轧球
+  en_name: Rolling ball
+  description: φ 20 轧球, φ 30 轧球, φ 40 轧球, φ 50 轧球, φ 60 轧球
+  cover: /images/fgt/p1.jpeg
+  link: 
+  preview: 
+
+- name: 段球
+  en_name: Segment
+  description: φ 20*25 段球, φ 30*35 段球, φ 40*56 段球, φ 50*70 段球
+  cover: /images/fgt/p2.jpeg
+  link: 
+  preview: 
+
+- name: 锻球
+  en_name: Forging ball
+  description: φ 80 锻球, φ 100 锻球, φ 120 锻球, φ 130 锻球, φ 140 锻球
+  cover: /images/fgt/p3.jpeg
+  link: 
+  preview: 
+  
+- name: 端盖
+  en_name: End Cap
+  description:
+  cover: /images/fgt/p4.jpeg
+  link: 
+  preview: 
+
+
+- name: 进料衬套
+  en_name: Feed bushing
+  description:
+  cover: /images/fgt/p5.jpeg
+  link: 
+  preview: 
+
+- name: 格子板
+  en_name: Plaid
+  description:
+  cover: /images/fgt/p6.jpeg
+  link: 
+  preview: 
+  
+- name: 动板
+  en_name: Moving Plate
+  description:
+  cover: /images/fgt/p7.jpeg
+  link: 
+  preview: 
+  
+- name: 定板
+  en_name: Set Plate
+  description:
+  cover: /images/fgt/p8.jpeg
+  link: 
+  preview: 
+  
+- name: 主衬
+  en_name: Main lining
+  description:
+  cover: /images/fgt/p9.jpeg
+  link: 
+  preview: 
