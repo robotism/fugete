@@ -1,0 +1,55 @@
+# Header
+menu:
+  首页: /
+  # 画廊: /gallery
+  产品: /stories
+  # 新闻: /archives
+  关于: /about
+
+# Content
+excerpt_link: 阅读全文
+
+# MIIT ICP/IP/DOMAIN
+beian: 
+  enable: false
+  number: 
+  url: https://beian.miit.gov.cn/
+
+# Miscellaneous
+favicon: /images/favicon.ico
+webclip: /images/webclip
+brand:   /images/favicon.ico
+
+# Jumbotron video & Hero image & Swiper
+## Jumbotron video
+video: 
+  overlay: false
+  path: /images/movie/
+## Hero image
+hero: 
+  image: /images/fgt/photo.png
+## Swiper
+## https://github.com/nolimits4web/swiper
+swiper: 
+  enable: false
+
+# Toc
+## https://github.com/tscanlin/tocbot
+toc: true
+
+# Slogan
+slogan: 
+  primary: 诚信 务实 创新 进取
+  secondary: 唐山富格特机械没各制造有限公司
+  archives: 
+  pages: 
+  posts: 
+
+# Library
+libs:
+  feather: /libs/feather/feather.min.js # V4.29.0
+  lazysizes: /libs/lazysizes/lazysizes.min.js
+  tocbot: /libs/tocbot/tocbot.min.js
+  swiper: 
+    css: /libs/swiper/swiper-bundle.min.css
+    js:  /libs/swiper/swiper-bundle.min.js
