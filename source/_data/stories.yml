@@ -42,12 +42,12 @@
   link: 
   preview: 
 
-- name: 产品优势
-  en_name: 
-  description: 
-  cover: /images/fgt/s2.jpeg
-  link: 
-  preview: 
+# - name: 产品优势
+#   en_name: 
+#   description: 
+#   cover: /images/fgt/s2.jpeg
+#   link: 
+#   preview: 
   
 - name: 检测设备
   en_name: 
