@@ -85,15 +85,20 @@
 		</div>
 	</figure>
 
-	<div id="dplayer" style="width:50%; position: fixed;z-index: 999; right: 0; bottom: 160px; max-width: 600px;"></div>
+	<div id="dplayer"
+	 style="width:50%; position: fixed;z-index: 999; right: 0; bottom: 160px; max-width: 600px;"></div>
 	<script src="https://cdn.bootcdn.net/ajax/libs/dplayer/1.27.1/DPlayer.min.js"></script>
 	<script  type="text/javascript">
 		const dp = new DPlayer({
 			container: document.getElementById('dplayer'),
 			autoplay:true,
 			loop: true,
+			volume: 0.8 ,// 部分浏览器有声音不能自动播放
 			video: {
 				url: '/images/fgt/video.mp4',
+				pic: '/images/fgt/thumb.png',
+				thumbnails: '/images/fgt/thumb.png',
+				type: 'auto',
 			},
 		});
 	</script>
