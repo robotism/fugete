@@ -28,6 +28,7 @@ video:
 ## Hero image
 hero: 
   video:  /images/fgt/video.mp4
+  thumb: /images/fgt/thumb.png
   image: /images/fgt/photo.png
 ## Swiper
 ## https://github.com/nolimits4web/swiper
