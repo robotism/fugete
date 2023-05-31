@@ -2,7 +2,7 @@
 	<figure class="hero-figure">
 		<img class="hero-figure-img" src="<%- url_for(theme.hero.image) %>" alt="<%= config.title %>">
 		<figcaption>
-			<div class="container">
+			<div class="container" style=" ">
 				<div class="figure-inset">
 					<h2 class="h1"><%- theme.slogan.primary %></h2>
 					<p><%- theme.slogan.secondary %></p>
@@ -15,4 +15,8 @@
 			</a>
 		</div>
 	</figure>
+	<video playsinline loop muted data-autoplay autoplay 
+		style="position: fixed;z-index: 999; right: 0; bottom: 160px; max-width: 600px;"
+	   width="50%" height="auto" src="<%- url_for(theme.hero.video) %>" poster="" autoplay="autoplay">
+   </video>
 </div>
