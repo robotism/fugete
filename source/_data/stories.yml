@@ -1,0 +1,63 @@
+## 项目案例
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: 锻造钢球工艺流程
+  en_name: 
+  description: Forged steel ball process flow
+  cover: /images/fgt/f1.jpeg
+  link: 
+  preview: 
+
+- name: 锻造钢球产品参数
+  en_name: 
+  description: Roling ball
+  cover: /images/fgt/a1.jpeg
+  link: 
+  preview: 
+
+- name: 轧制钢球工艺流程
+  en_name: 
+  description: Roling ball process flow
+  cover: /images/fgt/f2.jpeg
+  link: 
+  preview: 
+
+- name: 轧制钢球产品参数
+  en_name: 
+  description: Roling ball
+  cover: /images/fgt/a2.jpeg
+  link: 
+  preview: 
+
+  
+- name: 品质保障
+  en_name: 
+  description: 
+  cover: /images/fgt/s1.jpeg
+  link: 
+  preview: 
+
+# - name: 产品优势
+#   en_name: 
+#   description: 
+#   cover: /images/fgt/s2.jpeg
+#   link: 
+#   preview: 
+  
+- name: 检测设备
+  en_name: 
+  description: 
+  cover: /images/fgt/c1.jpeg
+  link: 
+  preview: 
+- name: 检测设备
+  en_name: 
+  description: 
+  cover: /images/fgt/c2.jpeg
+  link: 
+  preview: 
